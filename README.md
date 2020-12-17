@@ -1,5 +1,12 @@
-### Hi there 👋
 
+# Howdy 🤠 
+
+
+<img src="https://github.com/roundhousetally/roundhousetally/blob/main/FORLINKEDIN.jpg" align="center">
+
+### Thank you for visiting my Github! In these repos you will find all the beep-bop-computer-stuff that I've been learning in 2020.
+
+### Get to know me better at <a href="itsfunny.biz">itsfunny.biz</a>
 <!--
 **roundhousetally/roundhousetally** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
